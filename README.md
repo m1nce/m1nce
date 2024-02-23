@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! Welcome to my page. 👋
+
+<br>
+
+
 
 <!--
 **m1nce/m1nce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
