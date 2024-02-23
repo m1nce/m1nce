@@ -4,6 +4,7 @@
 
 My name is Minchan Kim, and I am pursuing a Bachelor's of Science in Data Science at the University of California, San Diego.
 
+[![Minchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nce)](https://github.com/m1nce/github-readme-stats)
 <!--
 **m1nce/m1nce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
