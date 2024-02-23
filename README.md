@@ -1,7 +1,5 @@
 ### Hi there! Welcome to my page. 👋
 
-<br>
-
 My name is Minchan Kim, and I am pursuing a Bachelor's of Science in Data Science at the University of California, San Diego.
 
 [![My Skills](https://skillicons.dev/icons?i=py,sqlite,java,html,css,js)](https://skillicons.dev)
