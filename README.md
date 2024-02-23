@@ -1,4 +1,4 @@
-### Hi there! Welcome to my page. 👋
+# Hi there! Welcome to my page. 👋
 
 My name is Minchan Kim, and I am pursuing a Bachelor's of Science in Data Science at the University of California, San Diego.
 
