@@ -1,11 +1,11 @@
 <h1 align='center'>Hi 👋 I'm Minchan Kim</h1>
 
 # 💫 About Me:
-I'm a second-year Data Science 💻 student at the University of California, San Diego 🔱, with a passion of programming in general and its many avenues of expression!
+I’m a second-year Data Science 📊 student at the University of California, San Diego 🏫, with a passion for programming in general and its many avenues of expression!
 
 ## 🚀 What I'm Up To:
-- Learning Machine Learning models through math and subsequently programming them
-- Discovering the interactions between front and backend while coding projects in realms of both
+- Learning Machine Learning models through math and subsequently programming them.
+- Discovering the interactions between front-end and back-end while coding projects in realms of both.
 
 ## 🧠 My interests:
 - Formula 1 🏎️
