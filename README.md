@@ -45,7 +45,7 @@ Machine Learning:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; align=center;">
   <img alt='Most Used Languages' style="width: 47%;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=m1nce&theme=transparent&hide_progress=true'/>
   <img alt='Minchan Kim's GitHub Stats' style="width: 36%;" src='https://github-readme-stats.vercel.app/api?username=m1nce&show_icons=true&theme=transparent&hide_rank=true'/>
 </div>
