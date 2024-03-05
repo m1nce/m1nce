@@ -9,7 +9,10 @@ I’m a second-year Data Science 📊 student at the University of California, S
 
 ## 🧠 My interests:
 - Formula 1 🏎️
-- NBA 🏀 
+- NBA 🏀
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minchankim/)
 
 # 💻 Tech Stack:
 Languages: 
