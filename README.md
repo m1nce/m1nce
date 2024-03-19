@@ -6,8 +6,8 @@ I’m a second-year Data Science 📊 student at the University of California, S
 Check out my pinned repositories to see some stuff I'm proud of!
 
 ## 🚀 What I'm Up To:
-- Learning Machine Learning models through math and subsequently programming them.
-- Discovering the interactions between front-end and back-end while coding projects in realms of both.
+- Database management
+- Learning more about the beauty of machine learning
 
 ## 🧠 My interests:
 - Formula 1 🏎️
