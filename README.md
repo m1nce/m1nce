@@ -6,7 +6,7 @@ I’m a second-year Data Science 📊 student at the University of California, S
 Check out my pinned repositories to see some stuff I'm proud of!
 
 ## 🚀 What I'm Up To:
-- Gaining the skills to be a full-stack developer, as well as a data scientist!
+- I love machine learning.
 
 ## 🧠 My interests:
 - Formula 1 🏎️
