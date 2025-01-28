@@ -7,6 +7,7 @@ Check out my pinned repositories to see some stuff I'm proud of!
 
 ## 🚀 What I'm Up To:
 - I love machine learning.
+- Learning about bioinformatics 😮
 
 ## 🧠 My interests:
 - Formula 1 🏎️
