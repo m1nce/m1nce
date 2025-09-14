@@ -6,8 +6,7 @@ I’m a third-year Data Science 📊 student at the University of California, Sa
 Check out my pinned repositories to see some stuff I'm proud of!
 
 ## 🚀 What I'm Up To:
-- I love machine learning.
-- Learning about bioinformatics 😮
+- Machine Learning, Artificial Intelligence
 
 ## 🧠 My interests:
 - Formula 1 🏎️
