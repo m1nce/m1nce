@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋 I'm Minchan Kim</h1>
 
 # 💫 About Me:
-I’m a third-year Data Science 📊 student at the University of California, San Diego 🏫, with a passion for programming in general and its many avenues of expression!
+I'm pursuing my Master's in Data Science 📊 at the University of California, San Diego 🏫, with a passion for large language models.
 
 Check out my pinned repositories to see some stuff I'm proud of!
 
